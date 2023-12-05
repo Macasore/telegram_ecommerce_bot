@@ -1,1 +1,1 @@
-web: python3 ByteNCrunch/main.py
+bot: python3 ByteNCrunch/main.py
